@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "My first Stream",
+      "description": "this is an amazing stream, do watch!!",
+      "id": 1
+    },
+    {
+      "title": "Component Reuse",
+      "description": "I am practicing component reuse in react",
+      "userId": "116365507266580679300",
+      "id": 5
+    }
+  ]
+}
